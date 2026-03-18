@@ -16,7 +16,7 @@ The goal of this project is to analyze job market trends by collecting and exami
 ##  Data Collection & Cleaning
 
 * Scraped job data using Python
-* Cleaned and structured the dataset
+* Cleaned and structured the dataset using SQL
 * Removed inconsistencies and duplicates
 
 ---
@@ -41,6 +41,7 @@ The goal of this project is to analyze job market trends by collecting and exami
 ##  Tools Used
 
 * Python
+* SQL
 * Pandas
 * Matplotlib
 * Web Scraping
